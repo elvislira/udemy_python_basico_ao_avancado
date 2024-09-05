@@ -1,4 +1,4 @@
-from log import Log
+from logabstrato import Log
 
 
 FILE_NAME = 'logs.log'
